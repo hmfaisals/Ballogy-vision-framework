@@ -1,0 +1,20 @@
+PODS:
+  - JGProgressHUD (2.2)
+  - TensorFlowLiteTaskVision (0.4.3)
+
+DEPENDENCIES:
+  - JGProgressHUD
+  - TensorFlowLiteTaskVision
+
+SPEC REPOS:
+  trunk:
+    - JGProgressHUD
+    - TensorFlowLiteTaskVision
+
+SPEC CHECKSUMS:
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  TensorFlowLiteTaskVision: 125d5b49d325ba2cf3938454da5f74a1cbfe0552
+
+PODFILE CHECKSUM: 42d439f3b016e489146f6a58127188c7818bec95
+
+COCOAPODS: 1.15.2
